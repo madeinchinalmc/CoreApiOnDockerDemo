@@ -1,0 +1,2 @@
+# CoreApiOnDockerDemo
+netcoreapi on docker
