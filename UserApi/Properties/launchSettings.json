@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "UserApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/values",
+      "applicationUrl": "https://localhost:6001;",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

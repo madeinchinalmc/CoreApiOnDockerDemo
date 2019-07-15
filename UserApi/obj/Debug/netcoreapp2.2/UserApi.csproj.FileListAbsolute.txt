@@ -1,0 +1,14 @@
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\bin\Debug\netcoreapp2.2\UserApi.deps.json
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\bin\Debug\netcoreapp2.2\UserApi.runtimeconfig.json
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\bin\Debug\netcoreapp2.2\UserApi.runtimeconfig.dev.json
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\bin\Debug\netcoreapp2.2\UserApi.dll
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.csproj.CoreCompileInputs.cache
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.RazorAssemblyInfo.cache
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.RazorAssemblyInfo.cs
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.AssemblyInfoInputs.cache
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.AssemblyInfo.cs
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.RazorTargetAssemblyInfo.cache
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\bin\Debug\netcoreapp2.2\UserApi.pdb
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.dll
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.pdb
+D:\Study\ProgramTestC#\IdentityStudyDemo\DockerUserapi\UserApi\UserApi\obj\Debug\netcoreapp2.2\UserApi.csprojAssemblyReference.cache
